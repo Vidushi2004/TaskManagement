@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vidushi2004/TaskManagement.git/static/css/main.95bc77bd.css",
+    "main.js": "/Vidushi2004/TaskManagement.git/static/js/main.16e5c777.js",
+    "index.html": "/Vidushi2004/TaskManagement.git/index.html",
+    "main.95bc77bd.css.map": "/Vidushi2004/TaskManagement.git/static/css/main.95bc77bd.css.map",
+    "main.16e5c777.js.map": "/Vidushi2004/TaskManagement.git/static/js/main.16e5c777.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95bc77bd.css",
+    "static/js/main.16e5c777.js"
+  ]
+}
